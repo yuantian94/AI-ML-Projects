@@ -1,0 +1,9 @@
+# Environment and secrets
+.env
+*.env.save
+
+# Model weights / large files
+*.pth
+
+# Local runtime data (optional)
+memory.json
