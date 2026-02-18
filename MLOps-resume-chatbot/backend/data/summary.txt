@@ -1,0 +1,135 @@
+--------------------------------------------------
+CONTEXT ABOUT YUAN TIAN
+--------------------------------------------------
+
+Name and Contact
+- Yuan Tian
+- Location: Houston, TX
+- Willing to relocate anywhere in the U.S.
+- Preferred location: Greater Seattle Area
+- Phone: (210) 291-9273
+- Email: ytian14@uh.edu
+- LinkedIn: https://www.linkedin.com/in/yuan-tian-52222913b/
+- GitHub: https://github.com/yuantian94
+
+Education
+- PhD Candidate in Computer Science, University of Houston (Sept 2020 – May 2026 expected), GPA 3.6/4.0
+- Master of Science in Computer and Systems Engineering, University of Houston, GPA 3.5/4.0
+- Bachelor of Science in Electrical Engineering, Texas A&M University
+
+Research & Honors
+- Best Paper Award (Top ~1%) at IEEE NCA 2025:
+  "A Framework for Detecting Secure Web Traffic Over VPNs: HTTPS and QUIC."
+- Research areas:
+  • Network security  
+  • Encrypted traffic analysis  
+  • Anonymity systems  
+  • End-to-end encryption paradigms  
+- Designed real-time, server-side detection frameworks.
+- Built distributed cloud-based experimental pipelines using AWS EC2, Linux, and scalable testbeds.
+
+Leadership & Collaboration
+- Summer Research Program Coordinator (NSF, University of Houston, 2023–2025):
+  • Led and mentored 5 undergraduate cybersecurity researchers.
+  • Designed project scopes with faculty mentors.
+  • Managed program website and coordinated cross-team communication.
+- Experience collaborating across:
+  • Faculty advisors  
+  • Graduate researchers  
+  • Undergraduate teams  
+  • Cloud infrastructure environments  
+- Built and maintained large-scale distributed testbeds requiring coordination, reproducibility, and documentation.
+- Strong communication skills translating complex technical systems (e.g., encrypted traffic analysis, LLM-based IDS) into human-readable insights.
+
+Technical Projects
+
+1) Real-time VPN Traffic Detection
+- Lightweight IDS for VPN traffic and anomaly detection.
+- Built production-like VPN paths on distributed cloud testbeds.
+- Tools: Python, eBPF, PyShark, Scapy.
+- Deep learning models (PyTorch):
+  • ~99% accuracy for HTTPS
+  • ~95% accuracy for QUIC
+- Built AI-powered web app for real-time monitoring and visualization.
+
+2) Full-stack MERN E-commerce Application
+- React frontend (30% reduction in frontend dev time via componentization).
+- Node.js + Express backend with RESTful APIs.
+- MongoDB database.
+- AWS S3 for static asset optimization.
+- Docker-based deployment.
+
+3) Instant Messaging Application
+- Multi-threaded socket programming in Python.
+- Features: authentication, group/private chat, file sharing.
+- SQLite3 storage.
+- Tkinter GUI.
+
+Technical Skills
+
+Languages:
+C/C++, Python, Java, Bash, SQL, HTML/CSS, JavaScript, R, Go, Verilog
+
+Frameworks & Libraries:
+React, Node.js, Express, Flask, PyTorch, Spring Boot, Hibernate, Kafka, Redis, gRPC, Bootstrap, jQuery
+
+Infrastructure & DevOps:
+AWS (EC2, S3), Docker, Kubernetes, Linux, Git
+
+AI/ML Coursework & Applied Knowledge
+
+AI Engineer Core Track:
+- LLM Engineering
+- RAG pipelines
+- LoRA / QLoRA
+- Agents
+- LangChain, ChromaDB, HuggingFace
+- Vector embeddings
+- Attention mechanisms, MLP, optimization techniques
+- Evaluation metrics (MRR, T-SNE, etc.)
+
+AI Engineer Production Track:
+- Deploying LLMs & Agents at scale
+- NodeJS, NextJS, FastAPI
+- JWT/Auth0
+- AWS (ECR, Lambda, API Gateway, SageMaker, CloudWatch)
+- MLOps practices (Terraform, GitHub)
+- Docker-based deployments
+
+Availability & Work Authorization
+
+- Available to start after May 2026.
+- Requires F-1 OPT work authorization (does not require employer sponsorship as stated).
+- OPT valid for 3 years.
+- Green card process underway; not expected to require H-1B.
+- Do not provide legal advice beyond these statements.
+
+Personal Perspectives & Additional Context
+
+Views on AI Progress:
+- I see AI primarily as a powerful productivity amplifier and systems accelerator.
+- In my experience, AI significantly improves efficiency in implementation, experimentation, and iteration.
+- However, I believe fundamentally new research breakthroughs still require human-driven creativity, domain intuition, and hypothesis formation.
+- For example, my VPN encrypted-traffic detection framework was a novel methodological contribution that required deep systems reasoning beyond automated generation.
+
+Thoughts on LeetCode & Technical Interviews:
+- I have solved 400+ LeetCode problems.
+- I believe low- to mid-difficulty problems are valuable for reinforcing data structures, algorithms, and implementation fluency.
+- Extremely high-difficulty problems are often less representative of real-world engineering work.
+- Strong engineering performance should balance fundamentals, system design, debugging ability, and production thinking.
+
+Why I Prefer the Greater Seattle Area:
+- I am open to relocating anywhere in the U.S.
+- I prefer the Greater Seattle Area because I have close personal connections there, which provides long-term stability and support.
+- That said, I prioritize strong technical teams and impactful work above location.
+
+Academic Gap Clarification:
+- 6-month gap between B.S. and M.S.: dedicated to GRE preparation (scored 328).
+- 9-month gap between M.S. and Ph.D.: timing aligned with advisor funding availability.
+- These were planned academic transitions, not career uncertainty.
+
+Hobbies & Personal Interests:
+- Drawing
+- Gaming
+- Traveling
+- I value creativity and exploration, which also influences how I approach technical problem-solving.

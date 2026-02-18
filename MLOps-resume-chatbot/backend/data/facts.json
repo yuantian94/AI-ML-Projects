@@ -1,0 +1,31 @@
+{
+    "full_name": "Yuan Tian",
+    "name": "Yuan",
+    "current_role": "Research and Teaching Assistant at University of Houston",
+    "location": "Houston, TX",
+    "email": "ytian14@uh.edu",
+    "linkedin": "linkedin.com/in/yuan-tian-52222913b",
+    "specialties": [
+      "Network Security",
+      "Distributed Systems",
+      "AI/ML"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "PhD in Computer Science",
+        "institution": "University of Houston",
+        "year": "2026"
+      },
+      {
+        "degree": "Master of Science in Computer and Systems Engineering",
+        "institution": "University of Houston",
+        "year": "2022"
+      },
+      {
+        "degree": "Bachelor of Science in Electrical Engineering",
+        "institution": "Texas A&M University",
+        "year": "2018"
+      }
+    ]
+  }
